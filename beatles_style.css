@@ -1,0 +1,102 @@
+
+
+.logo{
+    
+    background: #ffffff;
+    height: 200px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.imagen{
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.contenedor_Banner{
+    margin: 5px;
+    margin-top: 20px;
+    font-size: 30px;
+    height: 330px;
+    padding-top:20px;    
+}
+
+.Banner{
+    height: 300px;
+    width: 100%;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.list{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background: #ffffff ;
+    font-size: 20px;
+    font-family: 'Gill Sans';
+    margin-bottom: 20px;
+    border: #800080 solid 4px;
+    border-radius: 15px;
+
+    
+}
+.SideBar{
+    float:left;
+    width: 30%;
+    margin: 5px;
+    color: #ffffff;
+    background-color:#800080;
+    height: 400px;
+    box-sizing: border-box;
+    padding: 20px;
+    font-family: 'Gill Sans';
+    font-size: 30px;
+    display: block;
+}
+
+.integrantes{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background: white;
+    height: 270px;
+    padding: 20px;
+    color: black;
+
+}
+
+.article {
+    float: right;
+    width: 65%;
+    margin: 5px;
+    background: #ffffff;
+    height: 300px;
+    font-size: 25px;
+    font-family: 'Gill Sans';
+    padding: 30px;
+    box-sizing: border-box;
+}
+.footer{
+    height: 30px;
+    background: #b0c7c2;
+    margin: 5px;
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-top:15px;
+    font-size: 15px;
+}
+
+.contenedor{
+    height: 400px;
+}
+
+
+
+
+
