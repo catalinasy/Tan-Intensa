@@ -1,0 +1,70 @@
+.logo{
+    
+    background: #b0c7c2;
+    height: 150px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.imagen{
+    height: 100px;
+    margin: auto;
+    padding-left: 300px;
+
+
+}
+.Banner{
+    margin: 5px;
+    padding-left: 170px;
+    font-size: 30px;
+    height: 50px;
+    background: #b0c7c2;
+    padding-top:20px;
+    
+}
+
+.list{
+    margin: auto;
+    background: #005682 ;
+    padding-right: 50px;
+    padding-left: 50px;
+    
+}
+.SideBar{
+    float:left;
+    width: 30%;
+    margin: 5px;
+    background: #b0c7c2;
+    height: 300px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.article {
+    float: right;
+    width: 65%;
+    margin: 5px;
+    background: #b0c7c2;
+    height: 300px;
+    font-size: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.footer{
+    height: 30px;
+    background: #b0c7c2;
+    margin: 5px;
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-top:15px;
+    font-size: 15px;
+}
+
+.contenedor{
+    height: 300px;
+}
+
+
+
+
+
